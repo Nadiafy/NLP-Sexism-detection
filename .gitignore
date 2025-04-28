@@ -9,12 +9,10 @@ Thumbs.db
 # Ignore notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore Python environment files (optional)
+# Ignore Python environments (optional)
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 env/
 venv/
-
-.vscode
