@@ -1,0 +1,20 @@
+# Ignore data files
+data/
+*.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python environment files (optional)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+.vscode
